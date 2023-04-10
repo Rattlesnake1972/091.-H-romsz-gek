@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HaromszogekWPF/1.0.0": {
+        "runtime": {
+          "HaromszogekWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HaromszogekWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
